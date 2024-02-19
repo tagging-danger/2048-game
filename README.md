@@ -31,7 +31,7 @@ You can now access the 2048 game by opening a web browser and navigating to http
 
 ## Authors
 
-- [Your Name](https://github.com/tagging-danger/)
+- [Prathamz](https://github.com/tagging-danger/)
 
 ## License
 
